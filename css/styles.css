@@ -86,6 +86,9 @@ img {
   gap: 40px;
   padding-left: 0;
 }
+.menu-nav .link{
+  padding: 24px 0;
+}
 /* адрес */
 .adres a {
   color: #434455;
@@ -204,7 +207,7 @@ img {
   padding: 120px 0;
 }
 .section-prob{
-  padding-bottom: 0;
+  padding-top: 0;
 }
 /* заголовок підсекцій */
 .title {
@@ -254,6 +257,7 @@ img {
 .footer .logo-nav {
   display: inline-block;
   margin-top: 0;
+  margin-bottom: 16px;
 }
 .text-footer {
   max-width: 264px;
