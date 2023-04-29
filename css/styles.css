@@ -258,9 +258,13 @@ img {
   display: inline-block;
   margin-top: 0;
   margin-bottom: 16px;
+  padding: 0;
 }
 .text-footer {
   max-width: 264px;
+}
+.footer .logo-nav .logo-footer{
+  padding: 0;
 }
 .logo-footer,
 .text-footer {
